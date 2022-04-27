@@ -1,3 +1,3 @@
-module github.com/danstis/gotemplate
+module github.com/danstis/taggr
 
 go 1.14
