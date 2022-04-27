@@ -1,3 +1,3 @@
 module github.com/danstis/taggr
 
-go 1.14
+go 1.17
